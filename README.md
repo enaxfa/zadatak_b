@@ -13,5 +13,5 @@ This project demonstrates how to deploy a standalone Apache Spark cluster (singl
 - Docker and Docker Compose installed on your local machine.
 
 ## Getting Started
-download dataset from keggle and insert it in csv folder with name marketing_sample.ldjson
-run run_me.bat file
+- download dataset from keggle and insert it in csv folder with name marketing_sample.ldjson
+- run run_me.bat file
