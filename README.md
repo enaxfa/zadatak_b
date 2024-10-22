@@ -1,4 +1,4 @@
-# Zadatak B - Spark Cluster in Docker with Dataset Transformation
+# Spark Cluster in Docker with Dataset Transformation
 
 This project demonstrates how to deploy a standalone Apache Spark cluster (single-node) using Docker and perform transformations on a dataset using PySpark.
 
